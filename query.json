@@ -1,0 +1,1 @@
+{"query": "SELECT COUNT(*) AS totalCnt FROM minute_level_step_kafka"}
